@@ -4,13 +4,16 @@ library(dplyr)
 library(ggplot2)
 library(ggpubr)
 
-#Import the data into R 
+#Import the turtle data from github. Here, each row represents an individual turtle. 
 
-turtle_data <- read_csv("https://raw.githubusercontent.com/LukeZingg/Turtle-Plastic-Ingestion-Data-and-Code/refs/heads/main/Turtle%20Plastic%20Inegstion%20Data.csv")
+turtle_data <- read_csv("https://raw.githubusercontent.com/LukeZingg/Turtle-Plastic-Ingestion-Data-and-Code/refs/heads/main/Plastic%20Data-Data%20from%20Individual%20Turtles.csv")
+
+#Makes the column names seperated by periods instead of spaces
+names(turtle_data) <- make.names(names(turtle_data))
 
 #Filter out na.values of our variable of interest. 
-#The csv isn't compiled well for R making only the first 464 rows of data interpretable so we only consider that
-turtle_plastic <- turtle_plastic[1:464, 1:11] %>% filter(!is.na(Number.of.Trash.Items))
+#If we want to re-examine a different variable we can re-run the previous line of codes to get the data without the na values removed.
+turtle_data <-  turtle_data %>% filter(!is.na(Number.of.Trash.Items))
 
 #Convert Number.of.Trash.Items into numeric values. 
 turtle_plastic$Number.of.Trash.Items <- as.numeric(turtle_plastic$Number.of.Trash.Items)
@@ -92,3 +95,12 @@ bootstrap_trash_mean(alpha = 0.05, R = 10000)
 #a similar interval to the bootstrap method. 
 
 t.test(turtle_plastic$Number.of.Trash.Items)
+
+#Import the second dataset from github. In this case, each row is an individual piece of trash. 
+
+trash_data <- read_csv("https://raw.githubusercontent.com/LukeZingg/Turtle-Plastic-Ingestion-Data-and-Code/refs/heads/main/Turtle%20Data-Data%20from%20Pieces%20of%20Trash.csv")
+
+names(trash_data) <- make.names(names(trash_data))
+
+#We can continue our analysis by analysing the data from individual pieces of trash. 
+#You can easily adapt the previous code to bootstrap for a variable in this new dataset!
