@@ -1,0 +1,465 @@
+Stranding ID,Period,Season,Condition,INOFF,LatDD,LongDD,SCL (cm),SizeClass,Number of Trash Items,Mass of Trash Items
+19940808AFA01,1987-1999,Summer,Alive,Inshore,28.025,-97.04666667,30.7,Recruit,8,0.06
+19940703DXH01,1987-1999,Summer,Alive,Inshore,26.26,-97.28333333,46.5,Subadult,0,0
+19961113AFA01,1987-1999,Fall,Alive,Inshore,27.83333333,-97.04166667,36.9,Transitional,8,0.62
+19960204GPZ04,1987-1999,Winter,Alive,Inshore,26.05666667,-97.17666667,40,Transitional,0,0
+19960119TXB01,1987-1999,Winter,Alive,Inshore,27.525,-97.28333333,41,Transitional,0,0
+19960205GPZ05,1987-1999,Winter,Alive,Inshore,26.05666667,-97.17666667,42.9,Transitional,0,0
+19970114CXR02,1987-1999,Winter,Alive,Inshore,25.98833333,-97.15666667,32.9,Recruit,0,0
+19970116CXR03,1987-1999,Winter,Alive,Inshore,26.075,-97.215,33.2,Recruit,0,0
+19970116CXR06,1987-1999,Winter,Alive,Inshore,26.075,-97.215,33.9,Recruit,0,0
+19980620AFA01,1987-1999,Summer,Alive,Inshore,27.84666667,-97.05833333,27.7,Recruit,0,0
+19990214AFA01,1987-1999,Winter,Alive,Inshore,27.84166667,-97.06,40.4,Transitional,0,0
+20070120JAG03,2000-2009,Winter,Alive,Inshore,26.074,-97.2,31.3,Recruit,0,0
+20071220AFA01,2000-2009,Winter,Alive,Inshore,27.8388,-97.06113,32.4,Recruit,28,0.16
+20070121JAG06,2000-2009,Winter,Alive,Inshore,26.1037,-97.1739,35.3,Transitional,0,0
+20070919AFA03,2000-2009,Fall,Alive,Inshore,27.8382,-97.066,35.9,Transitional,6,0.37
+20070121JAG10,2000-2009,Winter,Alive,Inshore,26.1037,-97.1739,36.484,Transitional,0,0
+20070120JAG17,2000-2009,Winter,Alive,Inshore,26.1037,-97.1739,38.2,Transitional,0,0
+20070119JAG01,2000-2009,Winter,Alive,Inshore,26.074,-97.2,42.7,Transitional,0,0
+20070305JAG01,2000-2009,Spring,Alive,Inshore,26.0635,-97.1652,43,Transitional,1,0.001
+20070121LXG08,2000-2009,Winter,Alive,Inshore,26.1037,-97.1739,55.357,Subadult,0,0
+20070121JAG09,2000-2009,Winter,Alive,Inshore,26.1037,-97.1739,62.7,Subadult,1,0.13
+20070120JAG26,2000-2009,Winter,Alive,Inshore,26.1037,-97.1739,62.7,Subadult,0,0
+20070118JAG13,2000-2009,Winter,Alive,Inshore,26.06342,-97.16215,63,Subadult,0,0
+20080314AFA01,2000-2009,Spring,Alive,Inshore,27.8625,-97.053,53.6,Subadult,30,1.53
+20191117RLL01,2019,Fall,Alive,Inshore,26.059837,-97.214595,30.6,Recruit,0,0
+20191113MAD05,2019,Fall,Alive,Inshore,26.064302,-97.150477,31.6,Recruit,5,0.27
+20190520AMO02,2019,Spring,Alive,Inshore,27.629312,-97.217024,56.1,Subadult,89,0.79
+19890213AFA02,1987-1999,Winter,Fresh Dead,Inshore,27.005,-97.44833333,30.6,Recruit,0,0
+19890118FWJ01,1987-1999,Winter,Fresh Dead,Inshore,26.08333333,-97.16666667,35.7,Transitional,0,0
+19891221DLH02,1987-1999,Winter,Fresh Dead,Inshore,26.07166667,-97.16333333,36.7,Transitional,0,0
+19890210JXB04,1987-1999,Winter,Fresh Dead,Inshore,27.14666667,-97.43833333,37.9,Transitional,0,0
+19890207JXG02,1987-1999,Winter,Fresh Dead,Inshore,26.06166667,-97.15833333,38,Transitional,0,0
+19890103DXH01,1987-1999,Winter,Fresh Dead,Inshore,26.07,-97.16,40.1,Transitional,2,0.09
+19891221DLH01,1987-1999,Winter,Fresh Dead,Inshore,26.08833333,-97.166034,45.5,Subadult,0,0
+19890210JXB05,1987-1999,Winter,Fresh Dead,Inshore,27.13333333,-97.43833333,50.9,Subadult,0,0
+19891223CXM01,1987-1999,Winter,Fresh Dead,Inshore,27.75,-97.375,53.959,Subadult,4,0.1
+19890210JXB06,1987-1999,Winter,Fresh Dead,Inshore,27.05833333,-97.44333333,54.1,Subadult,1,0.01
+19890210JXB02,1987-1999,Winter,Fresh Dead,Inshore,27.155,-97.43833333,58.1,Subadult,0,0
+19890208DXH01,1987-1999,Winter,Fresh Dead,Inshore,26.47166667,-97.40166667,NA,NA,0,0
+19890207JXG01,1987-1999,Winter,Fresh Dead,Inshore,26.06166667,-97.15833333,NA,NA,2,0.001
+19900102DLH01,1987-1999,Winter,Fresh Dead,Inshore,26.09666667,-97.168606,31.2,Recruit,0,0
+19900111DXB01,1987-1999,Winter,Fresh Dead,Inshore,27.7,-97.25,43.6,Transitional,0,0
+19920519AFA01,1987-1999,Spring,Fresh Dead,Inshore,27.8345,-97.045,29.6,Recruit,23,0.58
+19930421PXE01,1987-1999,Spring,Fresh Dead,Inshore,27.79,-97.39,30.3,Recruit,21,0.54
+19940609KXM01,1987-1999,Summer,Fresh Dead,Inshore,28.175,-97.01833333,30.4,Recruit,0,0
+19941201AFA01,1987-1999,Winter,Fresh Dead,Inshore,27.84166667,-97.05666667,36.4,Transitional,6,0.3
+19941102KXM01,1987-1999,Fall,Fresh Dead,Inshore,27.905,-97.055,38.5,Transitional,3,0.64
+19960207TPW02,1987-1999,Winter,Fresh Dead,Inshore,26.05666667,-97.17666667,24.6,Pelagic,0,0
+19960104TXP01,1987-1999,Winter,Fresh Dead,Inshore,26.06833333,-97.16333333,30.6,Recruit,0,0
+19960207TPW01,1987-1999,Winter,Fresh Dead,Inshore,26.05666667,-97.17666667,36.1,Transitional,0,0
+19970819DXH01,1987-1999,Summer,Fresh Dead,Inshore,26.06833333,-97.15666667,22,Pelagic,35,0.69
+19970123JXP01,1987-1999,Winter,Fresh Dead,Inshore,27.08333333,-97.44333333,25.5,Recruit,0,0
+19970120CXF03,1987-1999,Winter,Fresh Dead,Inshore,27.08333333,-97.44333333,27.5,Recruit,0,0
+19970115CXR02,1987-1999,Winter,Fresh Dead,Inshore,26.095783,-97.167565,29.9,Recruit,0,0
+19970122CXF03,1987-1999,Winter,Fresh Dead,Inshore,27.08333333,-97.44333333,30.6,Recruit,0,0
+19970120CXF01,1987-1999,Winter,Fresh Dead,Inshore,27.155,-97.435,31,Recruit,0,0
+19970120CXF02,1987-1999,Winter,Fresh Dead,Inshore,27.155,-97.435,33,Recruit,0,0
+19970121CXF01,1987-1999,Winter,Fresh Dead,Inshore,27.705,-97.28166667,33.1,Recruit,0,0
+19970121CXF02,1987-1999,Winter,Fresh Dead,Inshore,27.83333333,-97.37833333,33.9,Recruit,0,0
+19971203AFA01,1987-1999,Winter,Fresh Dead,Inshore,27.84166667,-97.075,34,Recruit,0,0
+19970117CXR02,1987-1999,Winter,Fresh Dead,Inshore,26.105,-97.17333333,35.4,Transitional,0,0
+19970116CXR05,1987-1999,Winter,Fresh Dead,Inshore,26.075,-97.21833333,35.5,Transitional,0,0
+19970122CXF01,1987-1999,Winter,Fresh Dead,Inshore,27.705,-97.28166667,36.1,Transitional,0,0
+19970116CXR01,1987-1999,Winter,Fresh Dead,Inshore,26.075,-97.16666667,36.5,Transitional,0,0
+19970117BXG02,1987-1999,Winter,Fresh Dead,Inshore,26.04833333,-97.155,36.7,Transitional,0,0
+19970115TXG01,1987-1999,Winter,Fresh Dead,Inshore,27.88833333,-97.10666667,36.9,Transitional,0,0
+19970117BXG01,1987-1999,Winter,Fresh Dead,Inshore,26.055,-97.155,37.3,Transitional,0,0
+19970116CXR04,1987-1999,Winter,Fresh Dead,Inshore,26.075,-97.215,39,Transitional,0,0
+19970122AFA01,1987-1999,Winter,Fresh Dead,Inshore,27.895,-97.125,39.5,Transitional,0,0
+19970125KXM01,1987-1999,Winter,Fresh Dead,Inshore,28.10666667,-97.19166667,41,Transitional,0,0
+19970120CXF04,1987-1999,Winter,Fresh Dead,Inshore,26.99666667,-97.45,44,Transitional,0,0
+19970122CXF02,1987-1999,Winter,Fresh Dead,Inshore,27.155,-97.435,48.8,Subadult,0,0
+19970124AXB01,1987-1999,Winter,Fresh Dead,Inshore,27.88666667,-97.115,49.9,Subadult,0,0
+19970120CXF06,1987-1999,Winter,Fresh Dead,Inshore,27.02833333,-97.44666667,53.4,Subadult,0,0
+19970120CXF05,1987-1999,Winter,Fresh Dead,Inshore,26.98166667,-97.45166667,54.5,Subadult,0,0
+19981231DJS02,1987-1999,Winter,Fresh Dead,Inshore,27.47333333,-97.30833333,26.4,Recruit,0,0
+19980523AFA01,1987-1999,Spring,Fresh Dead,Inshore,27.795,-97.38833333,29.5,Recruit,14,0.51
+19981110AFA01,1987-1999,Fall,Fresh Dead,Inshore,27.835,-97.045,31.1,Recruit,0,0
+19981013CXS01,1987-1999,Fall,Fresh Dead,Inshore,26.06833333,-97.15833333,32.9,Recruit,0,0
+19981231DJS01,1987-1999,Winter,Fresh Dead,Inshore,27.47333333,-97.30833333,33.3,Recruit,0,0
+19981228CXS01,1987-1999,Winter,Fresh Dead,Inshore,26.06166667,-97.16,33.9,Recruit,0,0
+19981228CXS02,1987-1999,Winter,Fresh Dead,Inshore,26.06166667,-97.16,36.1,Transitional,0,0
+19980920CXS01,1987-1999,Fall,Fresh Dead,Inshore,NA,NA,46.2,Subadult,0,0
+19990610AFA01,1987-1999,Summer,Fresh Dead,Inshore,27.85,-97.06166667,16.2,Pelagic,0,0
+19990105CXS04,1987-1999,Winter,Fresh Dead,Inshore,26.08,-97.24666667,24.4,Pelagic,0,0
+19990513TPW03,1987-1999,Spring,Fresh Dead,Inshore,26.03,-97.17166667,27.1,Recruit,1,0.001
+19991021AFA01,1987-1999,Fall,Fresh Dead,Inshore,27.83333333,-97.04333333,29.2,Recruit,0,0
+19990105CXS02,1987-1999,Winter,Fresh Dead,Inshore,26.085,-97.26833333,29.8,Recruit,0,0
+19990219AFA01,1987-1999,Winter,Fresh Dead,Inshore,27.83833333,-97.05166667,32.5,Recruit,0,0
+19990101CXS01,1987-1999,Winter,Fresh Dead,Inshore,26.39333333,-97.325,32.8,Recruit,0,0
+19990525TPW01,1987-1999,Spring,Fresh Dead,Inshore,26.055,-97.19666667,32.8,Recruit,17,1.47
+19990105JPB01,1987-1999,Winter,Fresh Dead,Inshore,26.06166667,-97.16,35.4,Transitional,0,0
+19990513TPW01,1987-1999,Spring,Fresh Dead,Inshore,26.055,-97.19666667,35.7,Transitional,0,0
+19990108AXW01,1987-1999,Winter,Fresh Dead,Inshore,27.61333333,-97.25166667,36.7,Transitional,0,0
+20000706AFA01,2000-2009,Summer,Fresh Dead,Inshore,27.835,-97.045,24.7,Pelagic,0,0
+20010509AFA01,2000-2009,Spring,Fresh Dead,Inshore,27.83833333,-97.05333333,32.6,Recruit,0,0
+20010105PAB04,2000-2009,Winter,Fresh Dead,Inshore,27.075,-97.44333333,32.8,Recruit,0,0
+20070120JAG28,2000-2009,Winter,Fresh Dead,Inshore,26.1037,-97.1739,24.5,Pelagic,2,0.12
+20070121JAG13,2000-2009,Winter,Fresh Dead,Inshore,26.1037,-97.1739,25.8,Recruit,0,0
+20070127JAG01,2000-2009,Winter,Fresh Dead,Inshore,26.0876,-97.166,25.9,Recruit,0,0
+20070605AFA01,2000-2009,Summer,Fresh Dead,Inshore,27.8257,-97.1882,26.5,Recruit,0,0
+20070806AFA01,2000-2009,Summer,Fresh Dead,Inshore,27.8415,-97.0633,27.6,Recruit,2,0.001
+20070123JAG02,2000-2009,Winter,Fresh Dead,Inshore,26.0784,-97.2044,28.1,Recruit,2,0.001
+20070125GHB02,2000-2009,Winter,Fresh Dead,Inshore,26.0706,-97.2007,30,Recruit,0,0
+20070121JAG15,2000-2009,Winter,Fresh Dead,Inshore,26.1037,-97.1739,31.4,Recruit,0,0
+20070128JAG04,2000-2009,Winter,Fresh Dead,Inshore,26.1392,-97.1746,31.5,Recruit,0,0
+20071030JXH01,2000-2009,Fall,Fresh Dead,Inshore,28.75028,-95.6933,31.6,Recruit,0,0
+20070711LXG01,2000-2009,Summer,Fresh Dead,Inshore,26.1366,-97.172,32.3,Recruit,20,0.67
+20070121JAG16,2000-2009,Winter,Fresh Dead,Inshore,26.064,-97.15439,33.7,Recruit,0,0
+20070530JMS01,2000-2009,Spring,Fresh Dead,Inshore,26.1391,-97.2617,38.5,Transitional,0,0
+20070206LGS01,2000-2009,Winter,Fresh Dead,Inshore,26.0851,-97.2636,40.9,Transitional,0,0
+20070126LXG01,2000-2009,Winter,Fresh Dead,Inshore,26.1037,-97.1739,41.2,Transitional,0,0
+20070125JAG02,2000-2009,Winter,Fresh Dead,Inshore,26.0773,-97.168,42.1,Transitional,0,0
+20070612JAG01,2000-2009,Summer,Fresh Dead,Inshore,26.1202,-97.2233,44.5,Transitional,0,0
+20070127JAG02,2000-2009,Winter,Fresh Dead,Inshore,26.0363,-97.1835,44.5,Transitional,0,0
+20070130JAG01,2000-2009,Winter,Fresh Dead,Inshore,26.2099,-97.1928,67.6,Subadult,0,0
+20080930LGS01,2000-2009,Fall,Fresh Dead,Inshore,26.0688,-97.1631,33.2,Recruit,7,0.31
+20080211CLC01,2000-2009,Winter,Fresh Dead,Inshore,27.6571,-97.2607,45.6,Subadult,6,0.001
+20190430RHG02,2019,Spring,Fresh Dead,Inshore,27.61522,-97.20329,23.1,Pelagic,3,0.02
+20190522TPW01,2019,Spring,Fresh Dead,Inshore,27.674167,-97.268611,23.5,Pelagic,2,0.001
+20190618MAW01,2019,Summer,Fresh Dead,Inshore,27.837367,-97.227742,24.1,Pelagic,0,0
+20190704AMW01,2019,Summer,Fresh Dead,Inshore,27.834519,-97.044355,24.3,Pelagic,1,0.001
+20190724GAC01,2019,Summer,Fresh Dead,Inshore,27.61422,-97.20285,25.7,Recruit,0,0
+20191117JAG02,2019,Fall,Fresh Dead,Inshore,26.133129,-97.174931,26.2,Recruit,0,0
+20190629RJO01,2019,Summer,Fresh Dead,Inshore,27.8296,-97.3808,26.4,Recruit,3,0.04
+20191101RHG01,2019,Fall,Fresh Dead,Inshore,27.8379741,-97.050748,26.8,Recruit,3,0.001
+20190429TPW01,2019,Spring,Fresh Dead,Inshore,27.933888,-97.086388,27.1174,Recruit,0,0
+20190718BMB01,2019,Summer,Fresh Dead,Inshore,27.8155,-97.4008,31.3,Recruit,1,0.001
+20190522TPW02,2019,Spring,Fresh Dead,Inshore,27.674444,-97.26889,32.4,Recruit,2,0.05
+20190604TPW02,2019,Summer,Fresh Dead,Inshore,29.50444444,-94.94888889,32.9,Recruit,12,0.001
+20190703JNZ01,2019,Summer,Fresh Dead,Inshore,27.8734,-97.3105,33.5,Recruit,0,0
+20190225CTG01,2019,Winter,Fresh Dead,Inshore,26.069242,-97.15782,36.6,Transitional,0,0
+20190726TPW01,2019,Summer,Fresh Dead,Inshore,28.026047,-97.045614,37.183,Transitional,15,0.04
+20190504MAD02,2019,Spring,Fresh Dead,Inshore,26.08094,-97.24617,39.4,Transitional,0,0
+20190504MAW01,2019,Spring,Fresh Dead,Inshore,27.958562,-97.099303,55.5,Subadult,0,0
+19880423AFA01,1987-1999,Spring,Moderate Decomposition,Inshore,27.83833333,-97.05166667,29.4,Recruit,2,0.08
+19890823HXN01,1987-1999,Summer,Moderate Decomposition,Inshore,26.06666667,-97.16666667,60.4,Subadult,0,0
+19900110FWJ01,1987-1999,Winter,Moderate Decomposition,Inshore,26.07,-97.15833333,35.6,Transitional,0,0
+19900115JKH01,1987-1999,Winter,Moderate Decomposition,Inshore,27.76666667,-97.38333333,38.9538,Transitional,0,0
+19900110DXS01,1987-1999,Winter,Moderate Decomposition,Inshore,27.63333333,-97.26666667,40.445,Transitional,0,0
+19900108KXB01,1987-1999,Winter,Moderate Decomposition,Inshore,27.14666667,-97.43833333,52.3,Subadult,0,0
+19911114AFA01,1987-1999,Fall,Moderate Decomposition,Inshore,27.83833333,-97.05333333,24.6,Pelagic,6,0.09
+19930726AFA01,1987-1999,Summer,Moderate Decomposition,Inshore,27.85166667,-97.05833333,18.1,Pelagic,0,0
+19930625AFA02,1987-1999,Summer,Moderate Decomposition,Inshore,27.83666667,-97.05333333,29.9,Recruit,4,0.62
+19940520AFA01,1987-1999,Spring,Moderate Decomposition,Inshore,27.89666667,-97.13666667,26.2,Recruit,0,0
+19940716AFA02,1987-1999,Summer,Moderate Decomposition,Inshore,27.84,-97.05333333,29.5,Recruit,0,0
+19940531AFA01,1987-1999,Spring,Moderate Decomposition,Inshore,27.84,-97.055,29.9,Recruit,4,0.06
+19940919AFA01,1987-1999,Fall,Moderate Decomposition,Inshore,27.82333333,-97.16333333,35.7,Transitional,1,0.01
+19940929KXM01,1987-1999,Fall,Moderate Decomposition,Inshore,28.02333333,-97.04833333,36.9,Transitional,5,0.02
+19941115DBP01,1987-1999,Fall,Moderate Decomposition,Inshore,28.05666667,-97.03333333,39.7,Transitional,0,0
+19950711TJC01,1987-1999,Summer,Moderate Decomposition,Inshore,27.83333333,-97.04166667,32.3,Recruit,0,0
+19950808TXC01,1987-1999,Summer,Moderate Decomposition,Inshore,27.81666667,-97.2,66.8,Subadult,0,0
+19960210BXG01,1987-1999,Winter,Moderate Decomposition,Inshore,26.05833333,-97.17166667,22,Pelagic,0,0
+19960601AFA01,1987-1999,Summer,Moderate Decomposition,Inshore,27.82166667,-97.215,31.1,Recruit,3,0.01
+19960718CXF01,1987-1999,Summer,Moderate Decomposition,Inshore,27.85333333,-97.355,31.5,Recruit,1,0.02
+19970514AXB01,1987-1999,Spring,Moderate Decomposition,Inshore,28.025,-97.04833333,29,Recruit,20,1
+19970519AFA02,1987-1999,Spring,Moderate Decomposition,Inshore,27.83833333,-97.05333333,36.6,Transitional,0,0
+19980621AFA01,1987-1999,Summer,Moderate Decomposition,Inshore,27.83833333,-97.05166667,57.2,Subadult,0,0
+19990117CXF01,1987-1999,Winter,Moderate Decomposition,Inshore,27.47333333,-97.30833333,35.8,Transitional,0,0
+19990826NXK01,1987-1999,Summer,Moderate Decomposition,Inshore,26.60666667,-97.34666667,43,Transitional,0,0
+19991029AFA02,1987-1999,Fall,Moderate Decomposition,Inshore,27.84166667,-97.05333333,45.6,Subadult,0,0
+20020502JXG01,2000-2009,Spring,Moderate Decomposition,Inshore,28.022,-97.047,41,Transitional,1,0.3
+20021101AFA01,2000-2009,Fall,Moderate Decomposition,Inshore,27.875,-97.093,61,Subadult,0,0
+20071026AFA01,2000-2009,Fall,Moderate Decomposition,Inshore,27.8385,-97.0515,29.4,Recruit,2,0.001
+20071207KLM01,2000-2009,Winter,Moderate Decomposition,Inshore,28.0257,-97.0471,30.5,Recruit,0,0
+20071028AFA01,2000-2009,Fall,Moderate Decomposition,Inshore,27.8375,-97.0531,33.6,Recruit,0,0
+20070202JAG03,2000-2009,Winter,Moderate Decomposition,Inshore,26.143,-97.2316,36.9,Transitional,0,0
+20070401AFA01,2000-2009,Spring,Moderate Decomposition,Inshore,27.7729,-97.388,39.7,Transitional,3,0.08
+20070105LXG01,2000-2009,Winter,Moderate Decomposition,Inshore,26.0996,-97.1639,57.4,Subadult,0,0
+20081026AMM01,2000-2009,Fall,Moderate Decomposition,Inshore,26.0791,-97.2075,57.7,Subadult,0,0
+20090109AMM01,2000-2009,Winter,Moderate Decomposition,Inshore,26.0683,-97.165,31,Recruit,1,0.001
+20190701RHG03,2019,Summer,Moderate Decomposition,Inshore,27.61633,-97.208,25.3,Recruit,5,0.01
+20190724LRP01,2019,Summer,Moderate Decomposition,Inshore,27.619724,-97.213951,27.1,Recruit,5,0.04
+20190408AMO01,2019,Spring,Moderate Decomposition,Inshore,27.841934,-97.058559,27.2,Recruit,0,0
+20191218MJE01,2019,Winter,Moderate Decomposition,Inshore,27.635435,-97.241715,28.5,Recruit,4,0.02
+20190405AMO01,2019,Spring,Moderate Decomposition,Inshore,27.836408,-97.048058,31.7,Recruit,0,0
+20191127PXA01,2019,Fall,Moderate Decomposition,Inshore,26.067578,-97.154226,35.2,Transitional,0,0
+20190220AKT01,2019,Winter,Moderate Decomposition,Inshore,27.83994,-97.069849,46.7,Subadult,3,0.16
+20190402JNZ01,2019,Spring,Moderate Decomposition,Inshore,27.7401,-97.3673,48.4,Subadult,0,0
+20190105AMW01,2019,Winter,Moderate Decomposition,Inshore,27.6984,-97.2595,49.5,Subadult,0,0
+20190401AMO01,2019,Spring,Moderate Decomposition,Inshore,27.839231,-97.070073,52.5,Subadult,0,0
+20190817JKL01,2019,Summer,Moderate Decomposition,Inshore,27.82485,-97.139667,53.2,Subadult,0,0
+20190316LES01,2019,Spring,Moderate Decomposition,Inshore,26.070024,-97.201653,60.7,Subadult,0,0
+19930625AFA01,1987-1999,Summer,Alive,Offshore,27.83333333,-97.045,18.6,Pelagic,24,0.41
+19940929AFA01,1987-1999,Fall,Alive,Offshore,27.83333333,-97.04333333,25.4,Recruit,78,2.44
+19940716AFA03,1987-1999,Summer,Alive,Offshore,27.675,-97.16666667,30,Recruit,2,0.07
+19941213AFA01,1987-1999,Winter,Alive,Offshore,27.82666667,-97.055,37.9,Transitional,0,0
+19960815DJS01,1987-1999,Summer,Alive,Offshore,27.16,-97.37166667,86,Subadult,0,0
+19980504AFA01,1987-1999,Spring,Alive,Offshore,27.63833333,-97.19,28.2,Recruit,6,0.18
+19991130KSO01,1987-1999,Fall,Alive,Offshore,26.58666667,-97.28333333,23.7,Pelagic,0,0
+19991119AFA01,1987-1999,Fall,Alive,Offshore,27.76666667,-97.105,25.4,Recruit,0,0
+19991122AFA01,1987-1999,Fall,Alive,Offshore,28.01166667,-96.90666667,28.5,Recruit,0,0
+20000510JXL01,2000-2009,Spring,Alive,Offshore,27.375,-97.31666667,26.5,Recruit,0,0
+20000409TJS01,2000-2009,Spring,Alive,Offshore,27.51833333,-97.25166667,27.7,Recruit,0,0
+20000328DJS01,2000-2009,Spring,Alive,Offshore,27.53,-97.24666667,29.5,Recruit,0,0
+20001201AFA01,2000-2009,Winter,Alive,Offshore,27.83333333,-97.04333333,35.1,Transitional,0,0
+20011201AFA01,2000-2009,Winter,Alive,Offshore,27.95833333,-96.95833333,31.3,Recruit,2,0.07
+20070114LXA01,2000-2009,Winter,Alive,Offshore,26.0641,-97.151,26.3,Recruit,61,1.85
+20070509AFA08,2000-2009,Spring,Alive,Offshore,27.67355,-97.1679,28.4,Recruit,14,1.19
+20070509AFA06,2000-2009,Spring,Alive,Offshore,27.67355,-97.16797,28.8,Recruit,17,0.22
+20070523MXB01,2000-2009,Spring,Alive,Offshore,28.22316,-96.63109,29.3,Recruit,18,0.6
+20070915AFA01,2000-2009,Fall,Alive,Offshore,27.8218,-97.0591,32.6,Recruit,0,0
+20070206AFA01,2000-2009,Winter,Alive,Offshore,27.5807,-97.2193,36.3,Transitional,3,0.17
+20090529AFA01,2000-2009,Spring,Alive,Offshore,27.6946,-97.1553,15.8,Pelagic,13,0.36
+20090221TTW01,2000-2009,Winter,Alive,Offshore,26.5178,-97.2592,23.8,Pelagic,0,0
+20190701RHG04,2019,Summer,Alive,Offshore,27.6313462,-97.1937288,22.3,Pelagic,16,0.04
+20190528KNS01,2019,Spring,Alive,Offshore,27.8275273,-97.0532418,22.3642,Pelagic,3,0.001
+20190423LES03,2019,Spring,Alive,Offshore,26.076675,-97.157279,22.8,Pelagic,1,0.001
+20190523EAE39,2019,Spring,Alive,Offshore,27.61402,-97.20194,24.3,Pelagic,21,0.22
+20190427BKD01,2019,Spring,Alive,Offshore,27.0462,-97.379097,24.6,Pelagic,2,0.001
+20190531AMO03,2019,Spring,Alive,Offshore,27.833489,-97.042609,24.8,Pelagic,6,0.08
+20190612HSL02,2019,Summer,Alive,Offshore,27.50105,-97.26199,25.2,Recruit,0,0
+20190510HRF01,2019,Spring,Alive,Offshore,27.6123029,-97.2039,25.3,Recruit,20,0.38
+20190517CXG01,2019,Spring,Alive,Offshore,26.93025,-97.37325,25.5,Recruit,52,4.01
+20190524NFP02,2019,Spring,Alive,Offshore,27.833497,-97.044308,26,Recruit,8,0.41
+20190615GXG01,2019,Summer,Alive,Offshore,27.668118,-97.172375,26.1,Recruit,2,0.001
+20190601NFP03,2019,Summer,Alive,Offshore,27.83386,-97.04342,26.5,Recruit,38,0.93
+20190620RHG01,2019,Summer,Alive,Offshore,27.83474,-97.04619,26.7,Recruit,3,0.08
+20190523EAE21,2019,Spring,Alive,Offshore,27.61402,-97.20194,27.1,Recruit,13,0.06
+20190406MNA01,2019,Spring,Alive,Offshore,26.72032,-97.32878,27.1,Recruit,1,1.27
+20190704AMO01,2019,Summer,Alive,Offshore,27.65808,-97.17856,27.4,Recruit,1,0.01
+20190703AMW01,2019,Summer,Alive,Offshore,27.823,-97.058582,27.4,Recruit,1,0.001
+20190620JWT01,2019,Summer,Alive,Offshore,27.891522,-97.015728,27.4,Recruit,5,0.18
+20190708CXP01,2019,Summer,Alive,Offshore,27.71402,-97.1492,28.1,Recruit,4,0.05
+20190809AMW02,2019,Summer,Alive,Offshore,27.830814,-97.037904,28.9,Recruit,11,0.27
+20190208MAD01,2019,Winter,Alive,Offshore,26.118588,-97.165223,40.6,Transitional,0,0
+20191125PXA01,2019,Fall,Alive,Offshore,26.06646,-97.12807,48.5,Subadult,0,0
+20190317KBJ01,2019,Spring,Alive,Offshore,26.1349,-97.1674,50.3,Subadult,0,0
+19871201RXK01,1987-1999,Winter,Fresh Dead,Offshore,27.835,-97.045,27.2,Recruit,9,0.3
+19870504RSB01,1987-1999,Spring,Fresh Dead,Offshore,26.075,-97.15666667,41.9,Transitional,22,0.5
+19900430LLM04,1987-1999,Spring,Fresh Dead,Offshore,27.52666667,-97.24833333,25.2,Recruit,4,0.11
+19900430LLM03,1987-1999,Spring,Fresh Dead,Offshore,27.63,-97.195,29.5,Recruit,1,0.001
+19930507DLE01,1987-1999,Spring,Fresh Dead,Offshore,27.63833333,-97.19,16.1,Pelagic,14,0.45
+19940918AFA01,1987-1999,Fall,Fresh Dead,Offshore,27,-96.75,7.3,Pelagic,8,0.06
+19940701BXH01,1987-1999,Summer,Fresh Dead,Offshore,27.175,-97.37,29,Recruit,8,0.08
+19940404MXD02,1987-1999,Spring,Fresh Dead,Offshore,27.41833333,-97.3,31.6,Recruit,6,0.46
+19941024JLM01,1987-1999,Fall,Fresh Dead,Offshore,26.07,-97.155,33.2,Recruit,4,0.3
+19940516DJS01,1987-1999,Spring,Fresh Dead,Offshore,26.62166667,-97.295,41,Transitional,0,0
+19960324CXF01,1987-1999,Spring,Fresh Dead,Offshore,27.23333333,-97.35833333,25,Recruit,12,0.51
+19960504CJL01,1987-1999,Spring,Fresh Dead,Offshore,27.44333333,-97.28833333,27,Recruit,24,1.37
+19960407KXJ01,1987-1999,Spring,Fresh Dead,Offshore,27.175,-97.37,28,Recruit,2,0.18
+19960629AFA01,1987-1999,Summer,Fresh Dead,Offshore,27.825,-97.05666667,29.5,Recruit,0,0
+19960723AFA01,1987-1999,Summer,Fresh Dead,Offshore,27.83,-97.05,29.7,Recruit,12,0.4
+19960820AFA01,1987-1999,Summer,Fresh Dead,Offshore,27.71333333,-97.14333333,30.1,Recruit,0,0
+19960923AFA01,1987-1999,Fall,Fresh Dead,Offshore,27.825,-97.05666667,31.6,Recruit,1,0.07
+19960912DLE01,1987-1999,Fall,Fresh Dead,Offshore,26.563025,-96.95007,32,Recruit,0,0
+19960728AFA01,1987-1999,Summer,Fresh Dead,Offshore,27.675,-97.165,32.2,Recruit,0,0
+19960419AFA01,1987-1999,Spring,Fresh Dead,Offshore,27.78833333,-97.08833333,34,Recruit,0,0
+19960917DLE01,1987-1999,Fall,Fresh Dead,Offshore,NA,NA,34.7,Recruit,5,0.15
+19960219GXC01,1987-1999,Winter,Fresh Dead,Offshore,26.79166667,-97.34666667,35,Transitional,0,0
+19960118UTP01,1987-1999,Winter,Fresh Dead,Offshore,26,-97,46.5,Subadult,0,0
+19971114AFA01,1987-1999,Fall,Fresh Dead,Offshore,27.835,-97.045,23.4,Pelagic,75,5.47
+19971104AFA01,1987-1999,Fall,Fresh Dead,Offshore,27.805,-97.075,42,Transitional,0,0
+19980518AFA01,1987-1999,Spring,Fresh Dead,Offshore,27.82833333,-97.05333333,25.3,Recruit,0,0
+19980411DJS01,1987-1999,Spring,Fresh Dead,Offshore,26.84333333,-97.36,25.7,Recruit,0,0
+19980908AFA01,1987-1999,Fall,Fresh Dead,Offshore,27.80333333,-97.07666667,27.9,Recruit,0,0
+19991126ELM01,1987-1999,Fall,Fresh Dead,Offshore,26.78333333,-97.345,24.7,Pelagic,0,0
+19991225AFA01,1987-1999,Winter,Fresh Dead,Offshore,27.32166667,-97.335,25.2,Recruit,0,0
+19990723GXG01,1987-1999,Summer,Fresh Dead,Offshore,26.575,-97.27833333,30.7,Recruit,0,0
+19990624MXB01,1987-1999,Summer,Fresh Dead,Offshore,26.70666667,-97.32333333,34.5,Recruit,0,0
+20000604AFA02,2000-2009,Summer,Fresh Dead,Offshore,27.81833333,-97.06333333,23.8,Pelagic,0,0
+20000407CXR01,2000-2009,Spring,Fresh Dead,Offshore,27.275,-97.34833333,25.8,Recruit,0,0
+20000521AFA01,2000-2009,Spring,Fresh Dead,Offshore,27.82666667,-97.055,25.9,Recruit,0,0
+20000308PXB01,2000-2009,Spring,Fresh Dead,Offshore,27.425,-97.29666667,26.2,Recruit,0,0
+20010507TXS01,2000-2009,Spring,Fresh Dead,Offshore,27.46666667,-97.27833333,14.7,Pelagic,0,0
+20020525CFW01,2000-2009,Spring,Fresh Dead,Offshore,26.074,-97.157,27.5,Recruit,0,0
+20070123JAG03,2000-2009,Winter,Fresh Dead,Offshore,26.0384,-97.1528,23.9,Pelagic,43,1.46
+20070314DJW01,2000-2009,Spring,Fresh Dead,Offshore,26.2289,-97.1807,25.2,Recruit,44,2.58
+20070504CLF01,2000-2009,Spring,Fresh Dead,Offshore,27.5,-97.23,26,Recruit,8,0.3
+20070611AFA02,2000-2009,Summer,Fresh Dead,Offshore,27.6727,-97.1693,26.6,Recruit,9,0.32
+20070414AMM01,2000-2009,Spring,Fresh Dead,Offshore,26.256,-97.1866,28.5,Recruit,1,0.02
+20070612SLM01,2000-2009,Summer,Fresh Dead,Offshore,27.37454,-97.31694,30.5,Recruit,10,0.16
+20070509AFA09,2000-2009,Spring,Fresh Dead,Offshore,27.673,-97.1691,30.6,Recruit,20,0.67
+20071202NCD02,2000-2009,Winter,Fresh Dead,Offshore,26.0248,-97.1539,32.1,Recruit,0,0
+20071202NCD01,2000-2009,Winter,Fresh Dead,Offshore,26.0811,-97.1645,33.1,Recruit,2,0.01
+20070308LGS03,2000-2009,Spring,Fresh Dead,Offshore,26.1135,-97.1644,44.3,Transitional,13,0.21
+20070128JAG01,2000-2009,Winter,Fresh Dead,Offshore,26.0527,-97.1525,50.6,Subadult,1,0.001
+20070126LXG04,2000-2009,Winter,Fresh Dead,Offshore,26.0509,-97.1528,50.7,Subadult,0,0
+20070126LXG03,2000-2009,Winter,Fresh Dead,Offshore,26.0495,-97.1529,58,Subadult,0,0
+20070421AFA01,2000-2009,Spring,Fresh Dead,Offshore,27.6078,-97.2063,64,Subadult,0,0
+20080613LAD01,2000-2009,Summer,Fresh Dead,Offshore,27.5083,-97.2585,24.2,Pelagic,9,0.08
+20080708NCD01,2000-2009,Summer,Fresh Dead,Offshore,26.0803,-97.1582,31.7,Recruit,0,0
+20080618BAB01,2000-2009,Summer,Fresh Dead,Offshore,27.622,-97.1989,34.9,Recruit,1,0.07
+20080211JAG01,2000-2009,Winter,Fresh Dead,Offshore,26.4321,-97.2329,37,Transitional,0,0
+20081208GHB01,2000-2009,Winter,Fresh Dead,Offshore,26.0681,-97.1544,38.5,Transitional,0,0
+20080417AFA01,2000-2009,Spring,Fresh Dead,Offshore,27.8317,-97.0484,45.8,Subadult,65,11.11
+20080201LXG01,2000-2009,Winter,Fresh Dead,Offshore,26.5342,-97.263,53.8,Subadult,0,0
+20090411LGS02,2000-2009,Spring,Fresh Dead,Offshore,26.0802,-97.1585,24.4,Pelagic,11,1.38
+20090317AFA01,2000-2009,Spring,Fresh Dead,Offshore,27.8291,-97.0517,25.9,Recruit,20,0.66
+20090415AMT02,2000-2009,Spring,Fresh Dead,Offshore,26.246,-97.186,39.5,Transitional,0,0
+20190518BKD01,2019,Spring,Fresh Dead,Offshore,26.6999,-97.32244,22.8,Pelagic,2,0.02
+20190613AMG01,2019,Summer,Fresh Dead,Offshore,27.594001,-97.2130966,23,Pelagic,2,0.01
+20190716EAE06,2019,Summer,Fresh Dead,Offshore,27.61443,-97.19916,23.1,Pelagic,1,0.01
+20190717AMW02,2019,Summer,Fresh Dead,Offshore,27.6151,-97.2004,23.4,Pelagic,6,0.08
+20190716EAE02,2019,Summer,Fresh Dead,Offshore,27.61443,-97.19916,23.4,Pelagic,1,0.001
+20190730AMW01,2019,Summer,Fresh Dead,Offshore,27.615313,-97.200662,24.2,Pelagic,1,0.001
+20190629GAC02,2019,Summer,Fresh Dead,Offshore,26.90252,-97.36972,24.2,Pelagic,2,0.01
+20190713SSP01,2019,Summer,Fresh Dead,Offshore,27.615194,-97.20259,24.3,Pelagic,2,0.001
+20190507EXR01,2019,Spring,Fresh Dead,Offshore,27.61366,-97.20184,24.3,Pelagic,12,0.43
+20190802AMO01,2019,Summer,Fresh Dead,Offshore,27.833863,-97.04591,24.4,Pelagic,7,0.04
+20190519AMO02,2019,Spring,Fresh Dead,Offshore,27.624756,-97.19752,24.4,Pelagic,11,0.08
+20190411RLL01,2019,Spring,Fresh Dead,Offshore,25.98196,-97.149,24.6942,Pelagic,17,0.34
+20190716EAE03,2019,Summer,Fresh Dead,Offshore,27.61443,-97.19916,24.7,Pelagic,1,0.001
+20190518CXG01,2019,Spring,Fresh Dead,Offshore,26.6999,-97.32244,24.9,Pelagic,33,0.9
+20190614LES01,2019,Summer,Fresh Dead,Offshore,26.067598,-97.151807,25.1,Recruit,34,2.51
+20190519DXG02,2019,Spring,Fresh Dead,Offshore,27.676156,-97.165387,25.1,Recruit,35,0.7
+20190624AMO01,2019,Summer,Fresh Dead,Offshore,27.833961,-97.046069,25.2,Recruit,2,0.04
+20190603EFP01,2019,Summer,Fresh Dead,Offshore,26.58976,-97.28694,25.3,Recruit,42,0.77
+20190506NKM01,2019,Spring,Fresh Dead,Offshore,27.60397,-97.20842,25.3,Recruit,0,0
+20190526LES01,2019,Spring,Fresh Dead,Offshore,26.019426,-97.152088,25.5,Recruit,2,0.02
+20190726CLC01,2019,Summer,Fresh Dead,Offshore,27.7,-97.14,25.6,Recruit,25,1.27
+20190716EAE04,2019,Summer,Fresh Dead,Offshore,27.61443,-97.19916,25.6,Recruit,1,0.01
+20190601TNS01,2019,Summer,Fresh Dead,Offshore,26.98971,-97.37811,25.7,Recruit,3,0.07
+20190716EAE01,2019,Summer,Fresh Dead,Offshore,27.61443,-97.19916,25.8,Recruit,0,0
+20190629GAC01,2019,Summer,Fresh Dead,Offshore,26.90252,-97.36972,25.8,Recruit,16,0.12
+20190818TNS01,2019,Summer,Fresh Dead,Offshore,27.60543,-97.20727,26,Recruit,4,0.03
+20190530TNS01,2019,Spring,Fresh Dead,Offshore,27.64425,-97.20274,26,Recruit,15,0.33
+20190804AMO02,2019,Summer,Fresh Dead,Offshore,27.83437,-97.044723,26.3,Recruit,0,0
+20190724AMW01,2019,Summer,Fresh Dead,Offshore,27.614252,-97.198765,26.4,Recruit,1,0.001
+20190601AMO01,2019,Summer,Fresh Dead,Offshore,27.617212,-97.200594,26.4,Recruit,2,0.001
+20190810AMO01,2019,Summer,Fresh Dead,Offshore,27.766084,-97.106132,26.5,Recruit,6,0.03
+20190809AMO01,2019,Summer,Fresh Dead,Offshore,27.674926,-97.167464,26.5,Recruit,3,0.01
+20190705AMW01,2019,Summer,Fresh Dead,Offshore,27.617108,-97.200957,26.5,Recruit,0,0
+20190515APS01,2019,Spring,Fresh Dead,Offshore,27.60885,-97.2058,26.6,Recruit,6,0.07
+20190806RHG01,2019,Summer,Fresh Dead,Offshore,27.829476,-97.03524,26.8,Recruit,0,0
+20190506APS01,2019,Spring,Fresh Dead,Offshore,27.58019,-97.22076,26.8,Recruit,29,1.24
+20190408DMS01,2019,Spring,Fresh Dead,Offshore,27.34514,-97.32753,26.8,Recruit,3,0.07
+20191123NAN22,2019,Fall,Fresh Dead,Offshore,26.033685,-97.153327,26.9,Recruit,0,0
+20190530AMO01,2019,Spring,Fresh Dead,Offshore,27.615305,-97.200995,26.9,Recruit,5,0.03
+20190807EFP01,2019,Summer,Fresh Dead,Offshore,27.16754,-97.36997,27.4,Recruit,1,0.001
+20190804AMO01,2019,Summer,Fresh Dead,Offshore,27.63909,-97.189594,27.4,Recruit,1,0.001
+20190507EXR02,2019,Spring,Fresh Dead,Offshore,27.61325,-97.20208,27.4,Recruit,30,0.93
+20190413LES01,2019,Spring,Fresh Dead,Offshore,26.116298,-97.16492,27.5,Recruit,11,0.07
+20190520AMO04,2019,Spring,Fresh Dead,Offshore,27.615777,-97.200876,27.8,Recruit,18,0.78
+20191206KNS01,2019,Winter,Fresh Dead,Offshore,27.83408604,-97.04489065,27.9,Recruit,0,0
+20190507LES01,2019,Spring,Fresh Dead,Offshore,26.562389,-97.269343,27.9,Recruit,0,0
+20190722AMW04,2019,Summer,Fresh Dead,Offshore,27.637496,-97.190324,28,Recruit,1,0.001
+20190718HSL01,2019,Summer,Fresh Dead,Offshore,27.33903,-97.32953,28.4,Recruit,2,0.01
+20190708EAE02,2019,Summer,Fresh Dead,Offshore,27.61395,-97.20673,28.4,Recruit,0,0
+20191106RLL02,2019,Fall,Fresh Dead,Offshore,26.05666,-97.15179,28.8,Recruit,0,0
+20191106RLL01,2019,Fall,Fresh Dead,Offshore,25.97697,-97.14859,29.2,Recruit,0,0
+20190716EAE05,2019,Summer,Fresh Dead,Offshore,27.61443,-97.19916,29.3,Recruit,0,0
+20190506JLC01,2019,Spring,Fresh Dead,Offshore,27.60417,-97.20852,29.9,Recruit,0,0
+20190804NAN01,2019,Summer,Fresh Dead,Offshore,26.067368,-97.149237,30.6,Recruit,6,0.001
+20190528BNN06,2019,Spring,Fresh Dead,Offshore,27.61392,-97.20213,30.7,Recruit,4,0.01
+20190515MNA01,2019,Spring,Fresh Dead,Offshore,26.8917,-97.3681,30.7,Recruit,3,0.08
+20191121KEL03,2019,Fall,Fresh Dead,Offshore,26.05615,-97.152047,31.6,Recruit,0,0
+20191123NAN09,2019,Fall,Fresh Dead,Offshore,26.062928,-97.150514,32.3,Recruit,0,0
+20191122KBJ01,2019,Fall,Fresh Dead,Offshore,26.133391,-97.167796,33,Recruit,0,0
+20190227AKT01,2019,Winter,Fresh Dead,Offshore,27.802412,-97.076723,33.1,Recruit,2,0.001
+20191121KEL04,2019,Fall,Fresh Dead,Offshore,26.061565,-97.151005,33.9,Recruit,1,0.01
+20191123NAN16,2019,Fall,Fresh Dead,Offshore,25.966444,-97.146948,35.2,Transitional,0,0
+20191106RLL03,2019,Fall,Fresh Dead,Offshore,25.96477,-97.14758,35.3,Transitional,0,0
+20191123NAN18,2019,Fall,Fresh Dead,Offshore,25.967946,-97.14758,35.6,Transitional,5,0.16
+20190310CTG01,2019,Spring,Fresh Dead,Offshore,26.100701,-97.162596,36.7,Transitional,0,0
+20190706GLH01,2019,Summer,Fresh Dead,Offshore,26.59375,-97.28838,37.1,Transitional,1,0.001
+20191122MAD10,2019,Fall,Fresh Dead,Offshore,26.01512,-97.151703,38.3,Transitional,0,0
+20190118MAP01,2019,Winter,Fresh Dead,Offshore,27.6280675,-97.1952319,39.5,Transitional,2,0.001
+20191028CTG01,2019,Fall,Fresh Dead,Offshore,26.082826,-97.158982,39.9,Transitional,0,0
+20191121MAD02,2019,Fall,Fresh Dead,Offshore,25.9715,-97.1482,47.7,Subadult,0,0
+20190206MRV01,2019,Winter,Fresh Dead,Offshore,27.52314,-97.25063,49.7,Subadult,0,0
+20190502JWT02,2019,Spring,Fresh Dead,Offshore,27.804769,-97.074185,52.5,Subadult,73,0.93
+20190410RKT01,2019,Spring,Fresh Dead,Offshore,27.813585,-97.067743,53.4,Subadult,7,0.11
+20190131MAP01,2019,Winter,Fresh Dead,Offshore,27.7843065,-97.0917938,56.5,Subadult,5,0.37
+20191027AMO01,2019,Fall,Fresh Dead,Offshore,27.834066,-97.042856,58.6,Subadult,0,0
+20190328AMO01,2019,Spring,Fresh Dead,Offshore,27.833466,-97.046318,58.7,Subadult,1,0.001
+20191121KEL01,2019,Fall,Fresh Dead,Offshore,26.039147,-97.152953,59.7,Subadult,0,0
+19871018AFA01,1987-1999,Fall,Moderate Decomposition,Offshore,27.83333333,-97.045,33.7,Recruit,3,0.06
+19871205AFA02,1987-1999,Winter,Moderate Decomposition,Offshore,27.815,-97.06666667,41.9,Transitional,0,0
+19870627AFA01,1987-1999,Summer,Moderate Decomposition,Offshore,27.67833333,-97.16666667,52.2,Subadult,0,0
+19880626EXM01,1987-1999,Summer,Moderate Decomposition,Offshore,27.18333333,-97.375,26.5,Recruit,8,0.1
+19880429PXP01,1987-1999,Spring,Moderate Decomposition,Offshore,27.675,-97.16666667,27.8,Recruit,6,0.38
+19880527LXS01,1987-1999,Spring,Moderate Decomposition,Offshore,27.48333333,-97.26666667,30.4,Recruit,8,0.29
+19880417AFA02,1987-1999,Spring,Moderate Decomposition,Offshore,27.82666667,-97.38333333,40.2,Transitional,0,0
+19891221RXM01,1987-1999,Winter,Moderate Decomposition,Offshore,27.38333333,-97.31666667,22.271,Pelagic,4,0.04
+19940325AFA01,1987-1999,Spring,Moderate Decomposition,Offshore,27.63,-97.195,28,Recruit,4,0.03
+19951218DXH01,1987-1999,Winter,Moderate Decomposition,Offshore,26.16666667,-97.08333333,20,Pelagic,46,7.37
+19950228DXH01,1987-1999,Winter,Moderate Decomposition,Offshore,26.105,-97.15,36.9,Transitional,0,0
+19951231AFA01,1987-1999,Winter,Moderate Decomposition,Offshore,27.84166667,-97.05,41.8,Transitional,0,0
+19960707GXP01,1987-1999,Summer,Moderate Decomposition,Offshore,26.07,-97.155,24.2,Pelagic,0,0
+19961223AFA01,1987-1999,Winter,Moderate Decomposition,Offshore,27.795,-97.08166667,31.8,Recruit,0,0
+19970719KXJ01,1987-1999,Summer,Moderate Decomposition,Offshore,27.26833333,-97.35,20,Pelagic,14,0.74
+19970222KXJ01,1987-1999,Winter,Moderate Decomposition,Offshore,27.17166667,-97.37,34,Recruit,0,0
+19970126AFA02,1987-1999,Winter,Moderate Decomposition,Offshore,27.825,-97.05666667,34.5,Recruit,0,0
+19971105JAM01,1987-1999,Fall,Moderate Decomposition,Offshore,26.57666667,-97.28,39.7,Transitional,0,0
+19980401DJS01,1987-1999,Spring,Moderate Decomposition,Offshore,26.91333333,-97.37166667,25.8,Recruit,0,0
+19980330CCS02,1987-1999,Spring,Moderate Decomposition,Offshore,27.05833333,-97.37833333,27.3,Recruit,23,0.42
+19980520DXS01,1987-1999,Spring,Moderate Decomposition,Offshore,26.84,-97.35833333,28.2,Recruit,22,3.32
+19980704DJS02,1987-1999,Summer,Moderate Decomposition,Offshore,27.26833333,-97.35,30.2,Recruit,6,0.14
+19980805PXB01,1987-1999,Summer,Moderate Decomposition,Offshore,27.47,-97.27666667,81.3,Subadult,0,0
+20000320CXV01,2000-2009,Spring,Moderate Decomposition,Offshore,27.29,-97.345,27.7,Recruit,3,0.25
+20000204HXB04,2000-2009,Winter,Moderate Decomposition,Offshore,26.54166667,-97.265,36.7,Transitional,2,0.14
+20000511JXJ01,2000-2009,Spring,Moderate Decomposition,Offshore,27.36666667,-97.32,37.7,Transitional,0,0
+20071117AFA01,2000-2009,Fall,Moderate Decomposition,Offshore,27.8344,-97.0446,25.4,Recruit,31,0.9
+20070617AFA01,2000-2009,Summer,Moderate Decomposition,Offshore,27.7859,-97.0905,26.3,Recruit,5,0.06
+20070403AFA01,2000-2009,Spring,Moderate Decomposition,Offshore,27.8011,-97.07742,29.9,Recruit,3,0.001
+20070710MPH01,2000-2009,Summer,Moderate Decomposition,Offshore,27.6109,-97.2045,30.9,Recruit,0,0
+20071201CXM02,2000-2009,Winter,Moderate Decomposition,Offshore,27.8256,-97.0553,33.5,Recruit,60,0.92
+20070208LGS01,2000-2009,Winter,Moderate Decomposition,Offshore,26.0618,-97.151,39.2,Transitional,0,0
+20080607AFA01,2000-2009,Summer,Moderate Decomposition,Offshore,27.614,-97.2023,27.9,Recruit,0,0
+20080311NCD01,2000-2009,Spring,Moderate Decomposition,Offshore,26.0586,-97.1519,28,Recruit,9,0.69
+20080702AFA01,2000-2009,Summer,Moderate Decomposition,Offshore,27.6118,-97.2017,31.1,Recruit,3,0.02
+20080306AFA01,2000-2009,Spring,Moderate Decomposition,Offshore,27.7886,-97.0881,32.3,Recruit,2,0.04
+20080701AFA01,2000-2009,Summer,Moderate Decomposition,Offshore,27.8317,-97.0485,62.2,Subadult,7,0.33
+20090425JAH01,2000-2009,Spring,Moderate Decomposition,Offshore,27.0379,-97.3793,13.8,Pelagic,0,0
+20090528AMW01,2000-2009,Spring,Moderate Decomposition,Offshore,27.509,-97.258,25,Recruit,6,0.03
+20090205AFA01,2000-2009,Winter,Moderate Decomposition,Offshore,27.829,-97.0516,27.2,Recruit,0,0
+20090223AFA01,2000-2009,Winter,Moderate Decomposition,Offshore,27.7648,-97.1069,35.3,Transitional,14,0.14
+20090126AFA01,2000-2009,Winter,Moderate Decomposition,Offshore,27.73,-97.1313,37.4,Transitional,6,0.04
+20090401AFA02,2000-2009,Spring,Moderate Decomposition,Offshore,27.7157,-97.142,42.8,Transitional,0,0
+20090115LGS01,2000-2009,Winter,Moderate Decomposition,Offshore,26.1641,-97.1718,42.9,Transitional,4,0.03
+20090224AFA01,2000-2009,Winter,Moderate Decomposition,Offshore,27.7427,-97.1231,46,Subadult,0,0
+20190302AMG02,2019,Spring,Moderate Decomposition,Offshore,27.43351,-97.29359,20.6,Pelagic,5,0.1
+20190513RMW02,2019,Spring,Moderate Decomposition,Offshore,27.371467,-97.318022,22.4,Pelagic,27,0.64
+20190420NKM01,2019,Spring,Moderate Decomposition,Offshore,27.58181,-97.21968,23.1,Pelagic,26,0.48
+20190327MAP01,2019,Spring,Moderate Decomposition,Offshore,27.621272,-97.198975,23.3,Pelagic,43,0.51
+20190422LES01,2019,Spring,Moderate Decomposition,Offshore,26.106386,-97.163213,23.8,Pelagic,57,1.68
+20190405AMO02,2019,Spring,Moderate Decomposition,Offshore,27.789723,-97.08701,23.9,Pelagic,4,0.04
+20190416AMM01,2019,Spring,Moderate Decomposition,Offshore,25.96133,-97.1475419,24.8,Pelagic,13,0.4
+20190414EQY01,2019,Spring,Moderate Decomposition,Offshore,25.9614,-97.1475,25.3,Recruit,25,0.71
+20190604ALC01,2019,Summer,Moderate Decomposition,Offshore,27.36962,-97.31902,25.8,Recruit,35,1.12
+20190423EQY01,2019,Spring,Moderate Decomposition,Offshore,26.0317,-97.1528,25.8,Recruit,35,1.66
+20190414EQY03,2019,Spring,Moderate Decomposition,Offshore,26.0323,-97.1529,25.8,Recruit,25,0.62
+20190423EQY02,2019,Spring,Moderate Decomposition,Offshore,25.9716,-97.1481,26,Recruit,33,1.49
+20190421TNS01,2019,Spring,Moderate Decomposition,Offshore,27.19521,-97.36588,26,Recruit,114,7.83
+20190709LES01,2019,Summer,Moderate Decomposition,Offshore,26.067124,-97.153291,26.2,Recruit,2,0.08
+20190422LES02,2019,Spring,Moderate Decomposition,Offshore,26.075355,-97.156713,26.3,Recruit,2,0.02
+20190415ELP03,2019,Spring,Moderate Decomposition,Offshore,26.0471,-97.1527,26.3,Recruit,5,0.03
+20190731MSD01,2019,Summer,Moderate Decomposition,Offshore,25.957853,-97.146677,26.5,Recruit,2,0.02
+20190905REW01,2019,Fall,Moderate Decomposition,Offshore,27.60575,-97.207734,26.6,Recruit,22,0.23
+20190531TNS03,2019,Spring,Moderate Decomposition,Offshore,27.32942,-97.33259,27,Recruit,11,0.35
+20190412JDP01,2019,Spring,Moderate Decomposition,Offshore,26.0012,-97.1508,27.3,Recruit,14,0.52
+20190920NAN01,2019,Fall,Moderate Decomposition,Offshore,26.120992,-97.165773,27.4,Recruit,0,0
+20190519PCF01,2019,Spring,Moderate Decomposition,Offshore,27.614065,-97.201961,27.5,Recruit,37,0.82
+20191124NAN10,2019,Fall,Moderate Decomposition,Offshore,26.029365,-97.153673,28.3,Recruit,0,0
+20191130NAN01,2019,Fall,Moderate Decomposition,Offshore,25.961696,-97.146361,28.4,Recruit,1,0.001
+20190519LES01,2019,Spring,Moderate Decomposition,Offshore,26.084,-97.15929,28.4,Recruit,1,0.05
+20191124NAN17,2019,Fall,Moderate Decomposition,Offshore,25.97698,-97.148228,29.7,Recruit,0,0
+20191123NAN04,2019,Fall,Moderate Decomposition,Offshore,26.054505,-97.152385,31.3,Recruit,1,0.001
+20190625AMM03,2019,Summer,Moderate Decomposition,Offshore,26.064364,-97.147417,31.6,Recruit,0,0
+20191210MAD01,2019,Winter,Moderate Decomposition,Offshore,26.029712,-97.152568,31.9,Recruit,8,0.06
+20191124NAN06,2019,Fall,Moderate Decomposition,Offshore,26.03492,-97.154357,31.9,Recruit,0,0
+20191205MAD01,2019,Winter,Moderate Decomposition,Offshore,26.066037,-97.146275,32.6,Recruit,1,0.001
+20191124NAN15,2019,Fall,Moderate Decomposition,Offshore,26.047962,-97.153757,33,Recruit,0,0
+20190430RAC01,2019,Spring,Moderate Decomposition,Offshore,27.60882,-97.20536,33.2,Recruit,2,0.001
+20191215RLL01,2019,Winter,Moderate Decomposition,Offshore,26.1352,-97.168,33.7,Recruit,2,0.04
+20191210MAD03,2019,Winter,Moderate Decomposition,Offshore,26.029712,-97.152568,33.7,Recruit,0,0
+20191121KEL06,2019,Fall,Moderate Decomposition,Offshore,26.003648,-97.150998,34,Recruit,0,0
+20190220MAD02,2019,Winter,Moderate Decomposition,Offshore,26.21406,-97.178995,34.5,Recruit,0,0
+20191124NAN02,2019,Fall,Moderate Decomposition,Offshore,26.977832,-97.149235,35.2,Transitional,0,0
+20190501RHG01,2019,Spring,Moderate Decomposition,Offshore,27.83479,-97.04523,36.1,Transitional,103,0.31
+20190126SSP01,2019,Winter,Moderate Decomposition,Offshore,27.81119,-97.068403,36.1,Transitional,0,0
+20191210MAD02,2019,Winter,Moderate Decomposition,Offshore,26.029712,-97.152568,36.5,Transitional,0,0
+20190424RHG01,2019,Spring,Moderate Decomposition,Offshore,27.83821,-97.05123,39.7,Transitional,10,0.05
+20190726BNN01,2019,Summer,Moderate Decomposition,Offshore,27.5632,-97.2295,40.4,Transitional,1,0.001
+20190302AMG03,2019,Spring,Moderate Decomposition,Offshore,27.284,-97.3459,41.3,Transitional,1,0.001
+20191121KEL07,2019,Fall,Moderate Decomposition,Offshore,25.971014,-97.148148,43.1,Transitional,0,0
+20190111MAP01,2019,Winter,Moderate Decomposition,Offshore,27.647741,-97.184185,43.8,Transitional,0,0
+20191106RLL04,2019,Fall,Moderate Decomposition,Offshore,25.9634,-97.14753,46.1,Subadult,0,0
+20190206MAD01,2019,Winter,Moderate Decomposition,Offshore,26.168326,-97.172593,49.6,Subadult,0,0
+20191104MAD01,2019,Fall,Moderate Decomposition,Offshore,26.066267,-97.14532,51.7,Subadult,0,0
+20190101MAD01,2019,Winter,Moderate Decomposition,Offshore,26.083025,-97.158662,61.4,Subadult,1,0.001
+20190912CPB02,2019,Fall,Moderate Decomposition,Offshore,26.92122,-97.37234,106.5,Subadult,21,0.64
+19930629AFA01,1987-1999,Summer,Fresh Dead,Unknown,NA,NA,20.1,Pelagic,21,0.6
