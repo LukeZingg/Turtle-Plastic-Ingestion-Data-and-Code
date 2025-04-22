@@ -16,10 +16,10 @@ names(turtle_data) <- make.names(names(turtle_data))
 turtle_data <-  turtle_data %>% filter(!is.na(Number.of.Trash.Items))
 
 #Convert Number.of.Trash.Items into numeric values. 
-turtle_plastic$Number.of.Trash.Items <- as.numeric(turtle_plastic$Number.of.Trash.Items)
+turtle_data$Number.of.Trash.Items <- as.numeric(turtle_data$Number.of.Trash.Items)
 
 #Histogram of the number of trash items. 
-ggplot(turtle_plastic, aes(x = Number.of.Trash.Items)) +
+ggplot(turtle_data, aes(x = Number.of.Trash.Items)) +
   geom_histogram(fill = "#0072B2", color = "white", bins = 30) +
   labs(
     title = "Distribution of Number of Trash Items Found in Sea Turtles",
@@ -35,7 +35,7 @@ ggplot(turtle_plastic, aes(x = Number.of.Trash.Items)) +
   )
 
 
-bootstrap_trash_mean <- function(data = turtle_plastic$Number.of.Trash.Items, 
+bootstrap_trash_mean <- function(data = turtle_data$Number.of.Trash.Items, 
                                  R = 10000, 
                                  alpha = 0.05) {
   
@@ -94,7 +94,7 @@ bootstrap_trash_mean(alpha = 0.05, R = 10000)
 #parametric methods using the Central Limit Theorem to be accurate generating 
 #a similar interval to the bootstrap method. 
 
-t.test(turtle_plastic$Number.of.Trash.Items)
+t.test(turtle_data$Number.of.Trash.Items)
 
 #Import the second dataset from github. In this case, each row is an individual piece of trash. 
 
